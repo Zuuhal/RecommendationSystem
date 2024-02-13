@@ -1,2 +1,2 @@
 # RecommendationSystem
-My exercise to understand the basics of machine learning and its usage
+My exercise to understand the basics of data science and its usage
